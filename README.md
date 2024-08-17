@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunilpandey9454" target="blank"><img src="https://img.shields.io/twitter/follow/sunilpandey9454?logo=twitter&style=for-the-badge" alt="sunilpandey9454" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://biharideveloper.in](https://biharideveloper.in)
+- 👨‍💻 All of my projects are available at [https://biharideveloper.in](https://biharideveloper.com)
 
 - 📝 I regularly write articles on [https://biharideveloper.in/blog](https://biharideveloper.in/blog)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sunilcid763@gmail.com**
 
-- 📄 Know about my experiences [https://biharideveloper.in/resume](https://biharideveloper.in/resume)
+- 📄 Know about my experiences [https://biharideveloper.com/Aboutus](https://biharideveloper.com/Aboutus)
 
 - ⚡ Fun fact **Engineer's battery never dies.**
 
