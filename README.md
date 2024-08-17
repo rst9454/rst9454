@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunilpandey9454" target="blank"><img src="https://img.shields.io/twitter/follow/sunilpandey9454?logo=twitter&style=for-the-badge" alt="sunilpandey9454" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://biharideveloper.in](https://biharideveloper.com)
+- 👨‍💻 All of my projects are available at [https://biharideveloper.com](https://biharideveloper.com)
 
 - 📝 I regularly write articles on [https://biharideveloper.in/blog](https://biharideveloper.in/blog)
 
