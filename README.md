@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUNIL PANDEY</h1>
+<h1 align="center">Hi 👋, I'm SUNIL PANDEY (Bihari Developer)</h1>
 <h3 align="center">A passionate Full Stack Developer from Ara, Bihar, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rst9454&label=Profile%20views&color=0e75b6&style=flat" alt="rst9454" /> </p>
